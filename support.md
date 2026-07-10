@@ -5,7 +5,7 @@ Thank you for using Tapo! We are dedicated to providing you with a minimalist, h
 ## Contact Us
 If you encounter any technical issues, have questions regarding the app's features (such as cadence tracking or breathwork timing), or want to provide feedback, please reach out to us.
 
-- **Support Email:** 你的邮箱地址（例如：hello@tapo.app）
+- **Support Email:** 你的邮箱地址（yabadabadududu@icloud.com）
 - **Response Time:** We usually respond to all inquiries within 24-48 hours.
 
 ## FAQ Quick Links
