@@ -1,4 +1,4 @@
-# tapo-privacy
+# Tapo-privacy
 # Privacy Policy for Tapo
 
 Last updated: July 10, 2026
